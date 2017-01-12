@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>xq.baseAndroid</groupId>
-  <artifactId>AndroidBaseProject</artifactId>
+  <artifactId>AndroidXQImageModule</artifactId>
   <version>0.0.1-alpha</version>
   <packaging>aar</packaging>
-  <name>AndroidBaseProject</name>
+  <name>AndroidXQImageModule</name>
   <description></description>
   <url>https://github.com/xiaoqinyu0000/AndroidXQBaseProject.git</url>
   <licenses>

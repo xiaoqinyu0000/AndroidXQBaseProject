@@ -48,7 +48,7 @@
     </dependency>
     <dependency>
       <groupId>AndroidBaseProject</groupId>
-      <artifactId>AndroidBaseProject</artifactId>
+      <artifactId>AndroidXQImageModule</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
