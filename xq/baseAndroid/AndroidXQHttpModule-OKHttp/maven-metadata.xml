@@ -3,10 +3,11 @@
   <groupId>xq.baseAndroid</groupId>
   <artifactId>AndroidXQHttpModule-OKHttp</artifactId>
   <versioning>
-    <release>0.0.2-alpha</release>
+    <release>0.0.3-alpha</release>
     <versions>
       <version>0.0.2-alpha</version>
+      <version>0.0.3-alpha</version>
     </versions>
-    <lastUpdated>20170218164640</lastUpdated>
+    <lastUpdated>20170322165248</lastUpdated>
   </versioning>
 </metadata>
