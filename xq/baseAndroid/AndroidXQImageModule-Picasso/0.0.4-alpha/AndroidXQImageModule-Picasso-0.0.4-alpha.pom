@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>xq.baseAndroid</groupId>
+  <artifactId>AndroidXQImageModule-Picasso</artifactId>
+  <version>0.0.4-alpha</version>
+  <packaging>aar</packaging>
+  <name>AndroidXQImageModule-Picasso</name>
+  <description></description>
+  <url>https://github.com/xiaoqinyu0000/AndroidXQBaseProject.git</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>XQ</id>
+      <name>XiaoQin &lt;xiaoqinyu0000@gmail.com></name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:xiaoqinyu0000/AndroidXQBaseProject.git</connection>
+    <developerConnection>scm:git@github.com:xiaoqinyu0000/AndroidXQBaseProject.git</developerConnection>
+    <url>https://github.com/xiaoqinyu0000/AndroidXQBaseProject.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>25.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.squareup.picasso</groupId>
+      <artifactId>picasso</artifactId>
+      <version>2.5.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>AndroidBaseProject</groupId>
+      <artifactId>AndroidXQImageModule</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
